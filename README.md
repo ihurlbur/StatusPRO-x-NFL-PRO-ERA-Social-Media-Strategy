@@ -1,6 +1,3 @@
-# Status-Pro---NFL-Pro-Era
-Consultant deck focused on potential opportunities for Status Pro to utilize their social media channels to connect with and engage with the players of their VR NFL Pro Era videogame.
-
 # StatusPRO x NFL PRO ERA Social Media Strategy
 
 Social media growth strategy developed for StatusPRO and NFL PRO ERA as part of a team-based consulting project at USC Marshall. The project examines how StatusPRO can expand awareness, attract new users, and drive game sales by strengthening NFL PRO ERA’s social media presence.
@@ -17,13 +14,11 @@ This project evaluates StatusPRO’s existing social media activity and develops
 - Identify opportunities to reach casual football and gaming audiences
 - Benchmark posting strategies used by sports gaming and VR competitors
 - Develop platform-specific content and account strategies
-- Recommend partnerships with the NFL, athletes, and digital creators
 - Establish an implementation plan and performance metrics
 
 ## Research and Analysis
 
 The project included:
-
 - Analysis of StatusPRO and NFL PRO ERA content across Instagram, YouTube, and X
 - Competitive benchmarking against EA Sports FC, Madden, and other VR sports games
 - Research into the social media, sports, and gaming habits of Gen Z consumers
